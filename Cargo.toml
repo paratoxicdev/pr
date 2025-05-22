@@ -1,0 +1,9 @@
+[package]
+name = "pr"
+version = "0.0.1"
+edition = "2024"
+description = "PR maker"
+authors = ["The PR master"]
+homepage = "https://github.com/paratoxicdev"
+
+[dependencies]
