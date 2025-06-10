@@ -5,6 +5,7 @@ edition = "2024"
 description = "PR maker"
 authors = ["The PR master"]
 homepage = "https://github.com/paratoxicdev"
+repository = "https://github.com/paratoxicdev/pr"
 license = "CC0-1.0"
 
 [dependencies]
